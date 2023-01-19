@@ -1,0 +1,39 @@
+.cartItem{
+    border-bottom: 2px solid #050828;
+}
+
+.actions{
+    display: flex;
+    gap:1rem;
+    margin-right: 1rem;
+}
+
+.actions button{
+    border-radius: 0;
+    padding:0.5rem 0.7rem;
+    width: 2rem;
+}
+
+.actions button:hover{
+    background-color: #050828;
+}
+
+.summary{
+    display: flex;
+    align-items: center;
+    gap:2rem;
+    margin-bottom: 1rem;
+}
+
+.amount{
+    background-color: rgb(245, 245, 245);
+    border:1px solid #ccc;
+    border-radius: 3px;
+    padding:0.4rem;
+}
+
+.price{
+    font-weight: bold;
+    color:#050828;
+    font-size: 1.2rem;
+}

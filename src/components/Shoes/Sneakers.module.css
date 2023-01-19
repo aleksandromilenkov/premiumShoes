@@ -1,0 +1,60 @@
+.sneakers{
+    padding:1rem;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+}
+h4{
+    font-size: 1.2rem;
+}
+
+.description{
+    font-style: italic;
+    font-size: 0.9rem;
+    color:#222;
+}
+
+.price{
+    color:#050828;
+    font-weight: bold;
+}
+
+.imageContainer{
+    height: 8rem;
+    width: 8rem;
+}
+.sneakersImage{
+    width: 100%;
+    object-fit: contain;
+}
+@media screen and (max-width:450px) {
+    li{
+        flex-direction: column;
+    }
+
+    .description{
+        text-align: center;
+    }
+    .imageContainer{
+        margin:0 auto;
+    }
+
+    h4{
+        text-align: center;
+    }
+
+    .price{
+        text-align: center;
+        margin-top: 1rem;
+        font-size: 1.5rem;
+    }
+    button{
+        margin:0 auto;
+        margin-bottom: 1rem;
+    }
+}
+
+

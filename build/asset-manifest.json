@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/premiumShoes/static/css/main.d444d94e.chunk.css",
+    "main.js": "/premiumShoes/static/js/main.4fca0c72.chunk.js",
+    "main.js.map": "/premiumShoes/static/js/main.4fca0c72.chunk.js.map",
+    "runtime-main.js": "/premiumShoes/static/js/runtime-main.f4145705.js",
+    "runtime-main.js.map": "/premiumShoes/static/js/runtime-main.f4145705.js.map",
+    "static/js/2.88b28676.chunk.js": "/premiumShoes/static/js/2.88b28676.chunk.js",
+    "static/js/2.88b28676.chunk.js.map": "/premiumShoes/static/js/2.88b28676.chunk.js.map",
+    "index.html": "/premiumShoes/index.html",
+    "static/css/main.d444d94e.chunk.css.map": "/premiumShoes/static/css/main.d444d94e.chunk.css.map",
+    "static/js/2.88b28676.chunk.js.LICENSE.txt": "/premiumShoes/static/js/2.88b28676.chunk.js.LICENSE.txt",
+    "static/media/airForce.aa65b68a.png": "/premiumShoes/static/media/airForce.aa65b68a.png",
+    "static/media/airMax.361de85f.png": "/premiumShoes/static/media/airMax.361de85f.png",
+    "static/media/mercurial.e2205759.png": "/premiumShoes/static/media/mercurial.e2205759.png",
+    "static/media/shoesCover.63fd6b6f.jpg": "/premiumShoes/static/media/shoesCover.63fd6b6f.jpg",
+    "static/media/terrex.c173d359.png": "/premiumShoes/static/media/terrex.c173d359.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4145705.js",
+    "static/js/2.88b28676.chunk.js",
+    "static/css/main.d444d94e.chunk.css",
+    "static/js/main.4fca0c72.chunk.js"
+  ]
+}

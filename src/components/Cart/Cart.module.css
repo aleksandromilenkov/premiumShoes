@@ -1,0 +1,27 @@
+
+.total{
+    display: flex;
+    justify-content: space-between;
+}
+
+.total div:first-of-type{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.total div:last-of-type{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.actions{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap:1rem;
+}
+
+.cartItems{
+    overflow: scroll;
+    max-height: 20rem;
+}
